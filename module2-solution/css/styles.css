@@ -10,7 +10,6 @@ section{
 p{
 	clear: right;
 	text-align: left;
-	font-weight: normal;
 }
 header{
 	float: right;
@@ -22,7 +21,6 @@ header{
 }
 .container{
 	text-align: center;
-	font-weight: bold;
 }
 
 #chicken{
